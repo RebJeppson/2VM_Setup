@@ -1,0 +1,7 @@
+.vagrant/
+vars.rb
+node_modules
+yarn-error.log
+.Trash-1000
+cli.log*
+snippets.js
