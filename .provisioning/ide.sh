@@ -58,5 +58,5 @@ VSC_EXT_DIR=$VHOME/.vscode/extensions
 mkdir -p $VSC_EXT_DIR
 code --user-data-dir=$VSC_CONF_DIR \
     --extensions-dir=$VSC_EXT_DIR \
-    --install-extension=eg2.tslint
+    --install-extension=esbenp.prettier-vscode
 chown -R vagrant:vagrant $VHOME/.vscode
