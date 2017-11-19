@@ -12,8 +12,8 @@ To serve as a default development environment for any future projects.
 ## Getting Started
 Clone this repository:
 ```
-git clone git@github.com:scemud/scemud.git
-cd scemud
+git clone git@github.com:grahamlangford/2VM_Setup.git
+cd 2VM_Setup
 ```
 
 Copy the `vars.example.rb` into a file named just `vars.rb` and substitute your configuration for the example values within it:
